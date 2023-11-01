@@ -36,3 +36,27 @@ Thank you for choosing ArchiveOrg, your ultimate iOS companion for exploring the
 ## Support and Feedback:
 
 We value your experience with ArchiveOrg. If you encounter any issues, have suggestions, or simply want to share your thoughts. Reach out by [Submitting an issue](https://github.com/mubranch/ArchiveOrgSite/issues/new)), and I'll be happy to assist you.
+
+## Privacy Policy
+
+ArchiveOrg respects your privacy and is committed to protecting any personal information you may provide while using our mobile application. This Privacy Policy outlines the types of information we do not collect, ensuring a secure and private experience for all our users.
+
+Information We Do Not Collect:
+
+### **Personal Information**: 
+We do not collect any personal information such as your name, address, phone number, or email address.
+
+### **Device Information**: 
+We do not collect any information about the device you use to access our app, including device type, operating system, or unique device identifiers.
+
+### **Location Data**: 
+We do not collect any location data from your device.
+
+### **Usage Information**: 
+We do not collect any information about how you use our app, including the features you use or the content you access.
+
+### **Data Storage**: 
+We do not store any data related to your app usage on our servers. All data generated and saved within the app stays on your device.
+
+### **Third-Party Services**: 
+ArchiveOrg does not use any third-party services to collect or track your data. We do not integrate with any social media platforms, analytics services, or advertising networks.
