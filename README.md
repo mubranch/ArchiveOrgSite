@@ -29,9 +29,9 @@ Thank you for choosing ArchiveOrg, your ultimate iOS companion for exploring the
 
 ## Screenshots:
 
-![Screenshot 1](placeholder_link_1) | ![Screenshot 2](placeholder_link_2)
+![Screenshot 1](https://github.com/mubranch/ArchiveOrgSite/blob/main/Top.png) | ![Screenshot 2](https://github.com/mubranch/ArchiveOrgSite/blob/main/Save.png)
 ---|---
-![Screenshot 3](placeholder_link_3) | ![Screenshot 4](placeholder_link_4)
+![Screenshot 3](https://github.com/mubranch/ArchiveOrgSite/blob/main/FIleView.png) | ![Screenshot 4](https://github.com/mubranch/ArchiveOrgSite/blob/main/Search.png)
 
 ## Support and Feedback:
 
