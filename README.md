@@ -35,6 +35,4 @@ Thank you for choosing ArchiveOrg, your ultimate iOS companion for exploring the
 
 ## Support and Feedback:
 
-We value your experience with ArchiveOrg. If you encounter any issues, have suggestions, or simply want to share your thoughts, our support team is here to help. Reach out to us at [support@archiveorg.com](mailto:support@archiveorg.com), and we'll be happy to assist you.
-
-Thank you for choosing ArchiveOrg. Embrace the past, discover the present, and shape the future with knowledge at your fingertips. Happy exploring!
+We value your experience with ArchiveOrg. If you encounter any issues, have suggestions, or simply want to share your thoughts. Reach out by [Submitting an issue](https://github.com/mubranch/ArchiveOrgSite/issues/new)), and I'll be happy to assist you.
