@@ -27,6 +27,12 @@ Thank you for choosing ArchiveOrg, your ultimate iOS companion for exploring the
 2. **Start Exploring:**
    With the app installed, start your journey through time and culture. Explore, save, and discover the wonders of Archive.org hassle-free. No account creation required!
 
+## Screenshots:
+
+![Screenshot 1](placeholder_link_1) | ![Screenshot 2](placeholder_link_2)
+---|---
+![Screenshot 3](placeholder_link_3) | ![Screenshot 4](placeholder_link_4)
+
 ## Support and Feedback:
 
 We value your experience with ArchiveOrg. If you encounter any issues, have suggestions, or simply want to share your thoughts, our support team is here to help. Reach out to us at [support@archiveorg.com](mailto:support@archiveorg.com), and we'll be happy to assist you.
